@@ -1,4 +1,4 @@
-# Hi 👋, I'm DE127🛸
+# Hi 👋, I'm Hung Nguyen🛸
 
 > *Frontend Developer, Designer & Copywriter*
 
