@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://dev.to/nguyenhungg127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nguyenhungg127" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nguyenhungg127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyenhungg127" height="30" width="40" /></a>
-<a href="https://instagram.com/nguyenhungg127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nguyenhungg127" height="30" width="40" /></a> <img align="right" src="https://api.daily.dev/devcards/8eda5052e7554139aaa9cba106b81abd.png?r=gw5" width="300" alt="Hung Nguyen's Dev Card"/></a>
+<a href="https://instagram.com/nguyenhungg127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nguyenhungg127" height="30" width="40" /></a> <img align="right" src="https://api.daily.dev/devcards/8eda5052e7554139aaa9cba106b81abd.png?r=gw5" width="270" alt="Hung Nguyen's Dev Card"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
