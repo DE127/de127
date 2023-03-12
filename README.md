@@ -16,8 +16,8 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=de127&show_icons=true&locale=en&layout=compact" alt="de127" /><a href="https://app.daily.dev/nguyenhungg127"></p>
 
-![img](https://github.com/DE127/de127/blob/master/img/github-contribution-grid-snake.svg)
+[![img](https://github.com/DE127/de127/blob/master/img/github-contribution-grid-snake.svg)](https://app.daily.dev/nguyenhungg127)
 
-* 📧 Email : [nguyenhungg127@gmail.com](mailto:nguyenhungg127+github@email.com)
+* [📧 Email : ](https://app.daily.dev/nguyenhungg127)[nguyenhungg127@gmail.com](mailto:nguyenhungg127+github@email.com)
 * 📸 My Instagram : [nguyenhungg127](https://www.instagram.com/nguyenhungg127/)
 * 💻 Contact me : [Telegram](https://t.me/nguyenhungg127)
